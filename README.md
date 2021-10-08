@@ -1,2 +1,2 @@
 # kaggel-courses
-1.pyhton
+1.python
