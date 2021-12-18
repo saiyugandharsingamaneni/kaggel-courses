@@ -3,5 +3,6 @@
 2. Pandas
 3. Data cleaning
 4. Data visualization
-5. machine learning
-6. Intermediate machine learning
+5. feature_engineering
+6. machine learning
+7. Intermediate machine learning
